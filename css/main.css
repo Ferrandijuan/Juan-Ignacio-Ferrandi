@@ -1,0 +1,138 @@
+a:link {
+    color: aliceblue;
+
+}
+
+
+a:visited  {
+    color: #be8593;
+}
+
+
+body  {
+    background-color: #FFD1DC;
+}
+
+
+li  {
+    padding-top: 10px;
+
+}
+
+a  {
+    margin-top: 8px;
+}
+
+main  {
+    margin-top: 20px;
+}
+
+
+h1, h2, h3 {
+    padding: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+h4  {
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+h2  {
+    padding: 8px;
+}
+
+h3  {
+    font-size: 22px;
+}
+
+
+.second-text  {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+footer  {
+    background-color: white ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 18px;
+    overflow: hidden;
+    margin: 0px;
+    width: 100%;
+    margin-top: 60px;
+    grid-area: footer;
+
+}
+
+ul {
+    list-style: none; }
+
+.footer-ul  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    padding: 0px;
+
+}
+
+.asd  {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+h5  {
+    font-size: 15px;
+
+}
+
+.titulo-carru  {
+    color: #be8593;
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-fluid  {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.li-info  {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+
+}
+
+.margin-div  {
+    margin-top: 50px;
+}
